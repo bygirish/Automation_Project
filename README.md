@@ -14,3 +14,9 @@
 - hosting apache web server
 - archiving server logs in S3 bucket in tar format
 
+
+
+## Task 3
+## Tracking & automatic execution
+- bookkeeping of archived files 
+- cron job setup for the script for automatic execution
