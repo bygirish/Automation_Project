@@ -43,3 +43,5 @@ s3_bucket=upgrad-girish
 aws s3 \
 cp /tmp/${fileName}.tar \
 s3://${s3_bucket}/${fileName}.tar
+
+rm /tmp/${fileName}.tar
